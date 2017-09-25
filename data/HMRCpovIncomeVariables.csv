@@ -1,0 +1,21 @@
+income-source,field-clmnt,varname-clmnt,field-ptnr,varname-ptnr,notes
+gross earnings,76,CAGWKEMP,133,PAGWKEMP,gross employment
+gross earnings,78,CAGWKSEMP,135,PAGWKSEMP,gross self-employment
+investment income,113,CAOTHINC,169,PAOTHINC,other income
+investment income,240,JAINCCAP,,,notional income from capital
+occupational pensions,86,CAPERSPEN,142,PAPERSPEN,
+occupational pensions,187,CAOPINC,188,PAOPINC,
+state pension,105,CASRP,162,PASRP,
+jobseekers allowance,89,CACONTJSA,145,PACONTJSA,
+tax credits,98,CANTC,154,PANTC,child / working tax credit
+tax credits,183,CAPCINC,184,PAPCINC,pension credit
+child benefit,84,CACB,141,PACB,
+Carers Allowance,103,CACA,159,PAPA,
+Employment and Support Allowance (Contributory only),292,CAESABSC,293,PAESABSC,income recorded here is zero if receiving income-based ESA
+Employment and Support Allowance (Contributory only),294,CAESAWRAG,295,PAESAWRAG,
+Employment and Support Allowance (Contributory only),296,CAESASCG,297,PAESASCG,
+Employment and Support Allowance (Contributory only),30,CAWKESA,31,PAWKESA,
+Incapacity Benefit (after the first 29 weeks),95,CAIBSHORTHI,151,PAIBSHORTHI,
+Incapacity Benefit (after the first 29 weeks),96,CAIBLONG,152,PAIBLONG,
+"Statutory Sick, Maternity, Paternity and Adoption Pay",104,CASMPP,160,PASSP,
+"Statutory Sick, Maternity, Paternity and Adoption Pay",112,CASSP,161,PASMPP,

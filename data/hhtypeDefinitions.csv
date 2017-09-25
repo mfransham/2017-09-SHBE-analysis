@@ -1,0 +1,11 @@
+numpensioners,numworkage,children,hhtype
+1,0,kids,Single pensioner
+1,1,kids,Couple parents
+2,0,kids,Couple pensioner
+0,1,kids,Lone parent
+0,2,kids,Couple parents
+1,0,no kids,Single pensioner
+1,1,no kids,Couple working age
+2,0,no kids,Couple pensioner
+0,1,no kids,Single working age
+0,2,no kids,Couple working age

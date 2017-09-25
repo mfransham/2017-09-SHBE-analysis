@@ -1,0 +1,16 @@
+matchNo,shbefile.1,shbefile.2
+1,../../SHBE archive/2010_07.txt,../../SHBE archive/2012_08.txt
+2,../../SHBE archive/2010_07.txt,../../SHBE archive/2013_02.txt
+3,../../SHBE archive/2010_07.txt,../../SHBE archive/2014_07.txt
+4,../../SHBE archive/2010_07.txt,../../SHBE archive/2015_07.txt
+5,../../SHBE archive/2010_07.txt,../../SHBE archive/2016_07.txt
+6,../../SHBE archive/2012_08.txt,../../SHBE archive/2013_02.txt
+7,../../SHBE archive/2012_08.txt,../../SHBE archive/2014_07.txt
+8,../../SHBE archive/2012_08.txt,../../SHBE archive/2015_07.txt
+9,../../SHBE archive/2012_08.txt,../../SHBE archive/2016_07.txt
+10,../../SHBE archive/2013_02.txt,../../SHBE archive/2014_07.txt
+11,../../SHBE archive/2013_02.txt,../../SHBE archive/2015_07.txt
+12,../../SHBE archive/2013_02.txt,../../SHBE archive/2016_07.txt
+13,../../SHBE archive/2014_07.txt,../../SHBE archive/2015_07.txt
+14,../../SHBE archive/2014_07.txt,../../SHBE archive/2016_07.txt
+15,../../SHBE archive/2015_07.txt,../../SHBE archive/2016_07.txt
